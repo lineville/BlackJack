@@ -1,0 +1,11 @@
+/Users/lineville/work/BlackJack/bin/Debug/netcoreapp2.2/BlackJack.deps.json
+/Users/lineville/work/BlackJack/bin/Debug/netcoreapp2.2/BlackJack.runtimeconfig.json
+/Users/lineville/work/BlackJack/bin/Debug/netcoreapp2.2/BlackJack.runtimeconfig.dev.json
+/Users/lineville/work/BlackJack/bin/Debug/netcoreapp2.2/BlackJack.dll
+/Users/lineville/work/BlackJack/bin/Debug/netcoreapp2.2/BlackJack.pdb
+/Users/lineville/work/BlackJack/obj/Debug/netcoreapp2.2/BlackJack.csprojAssemblyReference.cache
+/Users/lineville/work/BlackJack/obj/Debug/netcoreapp2.2/BlackJack.csproj.CoreCompileInputs.cache
+/Users/lineville/work/BlackJack/obj/Debug/netcoreapp2.2/BlackJack.AssemblyInfoInputs.cache
+/Users/lineville/work/BlackJack/obj/Debug/netcoreapp2.2/BlackJack.AssemblyInfo.cs
+/Users/lineville/work/BlackJack/obj/Debug/netcoreapp2.2/BlackJack.dll
+/Users/lineville/work/BlackJack/obj/Debug/netcoreapp2.2/BlackJack.pdb
